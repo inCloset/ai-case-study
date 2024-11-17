@@ -1,10 +1,6 @@
-# ai-case-study
-Upstart Case Study
 <div style="text-align: center;">
     <img src="upstart-img.png" width="775" height="145"/>
 </div>
-
-# TITLE: Case Study of Upstart 
 
 ## Overview and Origin
 ### The Company and the Brand
