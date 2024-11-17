@@ -134,22 +134,58 @@ Additinal technology stacks leveraged at Upstart are as follows
 
 
 ## Landscape
-
-* What field is the company in?
-
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
+### Financial Service: Innovation and Trends
+Measurable innovations trending within Financial Technology(FinTech) and Financial Services sector are but not limited to seamless automated loan approval process clients using AI based tools and technology.
+### Competitors
+* SoFI
+* Affirm
+* Prosper
+* LendingClub
+* ZestAI
+* Credit Karma
 
 ## Results
+### Impact and Differentiator
+UMI is enabled by Upstart’s unique risk models that estimate likelihoods of default and prepayment for each month of every Upstart-powered loan. We refer to this as our patented loan-month model. This unique risk model allows us to more accurately separate applicant risk from macro risk—and to measure the macro risk more rapidly.
 
-* What has been the business impact of this company so far?
+#### More accurate, efficient, and inclusive lending
 
-        UMI is enabled by Upstart’s unique risk models that estimate likelihoods of default and prepayment for each month of every Upstart-powered loan. We refer to this as our patented loan-month model. This unique risk model allows us to more accurately separate applicant risk from macro risk—and to measure the macro risk more rapidly.
+        As depicted in exhibit 1, with Upstart AI, lenders can approve more applicants at lower rates across races, ages, and genders, while simultaneously delivering the exceptional digital-first experience customers demand.
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+#### Exhibit 1: Result and Impact
+<div style="text-align: left;">
+    <img src="higherApprovers.png" width="775" height="145"/>
+</div>
+<div style="text-align: right;">
+    <img src="lowerAPR.png" width="775" height="145"/>
+</div>
+<div style="text-align: center;">
+    <img src="fullyAutomated.png" width="775" height="145"/>
+</div>
 
-* How is your company performing relative to competitors in the same field?
+### Operating Metrics
+We review a number of operating metrics, including transaction volume, dollars; transaction volume, number of loans; conversion rate; and percentage of loans fully
+automated, to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans, and make strategic decisions.
+We define Transaction Volume, Dollars as the total principal of loan originations (or committed amounts for HELOCs) facilitated on our marketplace during the periods
+presented. We define Transaction Volume, Number of Loans as the number of loan originations (or commitments issued for HELOCs) facilitated on our marketplace
+during the periods presented. We believe these metrics are good proxies for our overall scale and reach as a platform.
+We define Conversion Rate as the Transaction Volume, Number of Loans in a period divided by the number of rate inquiries received that we estimate to be legitimate,
+which we record when a borrower requests a loan offer on our platform. We track this metric to understand the impact of improvements to the efficiency of our
+borrower funnel on our overall growth.
+We define Percentage of Loans Fully Automated as the total number of loans in a given period originated end-to-end (from initial rate request to final funding for
+personal loans and small dollar loans and from initial rate request to signing of the loan agreement for auto loans) with no human involvement required by the
+Company divided by the Transaction Volume, Number of Loans in the same period.
+
+### Exhibit 2: Upstart Market Place v Competitors
+<div style="text-align: center;">
+<img src="mrktshr.png" width="775" height="145"/>
+</div>
+<div style="text-align: center;">
+<img src="finstmt.png" width="775" height="145"/>
+</div>
+<div style="text-align: center;">
+<img src="balsheet.png" width="775" height="145"/>
+</div>
 
 ## Recommendations
 
@@ -160,3 +196,8 @@ Additinal technology stacks leveraged at Upstart are as follows
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Sources
+* [Upstart](https://www.upstart.com/our-story)
+* [chatGPT Prompts](https://chatgpt.com/)
+* [cloudzero](https://www.cloudzero.com/customers/upstart/)
