@@ -156,7 +156,7 @@ UMI is enabled by Upstart’s unique risk models that estimate likelihoods of de
     <img src="lowerAPR.png" width="855" height="350"/>
 </div>
 <div style="text-align: left;">
-    <img src="fullyAutomated.png" width="775" height="400"/>
+    <img src="FullyAutomated.png" width="775" height="400"/>
 </div>
 
 ### Operating Metrics
@@ -174,13 +174,13 @@ Company divided by the Transaction Volume, Number of Loans in the same period.
 
 ### Exhibit 2: Upstart Market Place v Competitors
 <div style="text-align: left;">
-<img src="mrktshr.png" width="775" height="350"/>
+<img src="mrktShr.png" width="775" height="350"/>
 </div>
 <div style="text-align: right;">
-<img src="finstmt.png" width="775" height="350"/>
+<img src="finStmt.png" width="775" height="350"/>
 </div>
 <div style="text-align: l;">
-<img src="balsheet.png" width="775" height="350"/>
+<img src="balSheet.png" width="775" height="350"/>
 </div>
 
 ## Recommendations
