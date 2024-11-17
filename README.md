@@ -185,13 +185,9 @@ Company divided by the Transaction Volume, Number of Loans in the same period.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Looking closely at Upstart financials, opperating cost is on the higher side. Upstart should look at different cost avoidance strategies to enable them to operate more efficiently. For instance on their benefits page, company provides catering, quarterly offsite events, and among other few perks that directly impacts their buttom line. Considering they are still a startup company, continues operation under these circumstances, could be deterimental.
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+I will recommend Upstart to expand into crypto services as it is clearly obvious that market trending towards that space. With the recent 2024 United States Election results, there is a high chances Crypto currency becoming the centerilized financial system of the world hence Upstart providing a system as service(SaaS) platform for their customer will contribute greatly to their buttomline at a future state.
 
 ## Sources
 * [Upstart](https://www.upstart.com/our-story)
