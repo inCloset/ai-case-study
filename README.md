@@ -10,7 +10,7 @@ Upstart Case Study
 ### The Company and the Brand
 The traditional lending method to determine a borrower's financial strength to repay their loan is broken, unjust, and at times unfair. Specifically customer of lower income, people of color, and migrants are vastly impacted by these methods which financial institutes leverage to access customer likely not to defult on their loan. 
 
-Upstart, founded in 2012 by three ex-Google, Anna Counselman, Dave Girouard, and Paul Gu emabarked on the journey to disrupt and challenge the norm of accessing customer financial background or FICO score. 
+Upstart, founded in 2012 by three ex-Google, Anna Counselman, Dave Girouard, and Paul Gu emabarked on the journey to disrupt and challenge the norm of accessing customer financial background and their ability to make repayment on their loans using FICO score. 
         
 Upstart is primarily funded through a partnership with banks and credit unions, where these institutions provide the capital to fund loans originated on the Upstart platform; for lower-risk borrowers, partner banks often hold these loans on their balance sheet, while for higher-risk borrowers, the loans are typically sold to institutional investors after origination by the bank partners; essentially, Upstart acts as a marketplace connecting borrowers with lenders, generating revenue through fees on the loans facilitated through their platform
 
