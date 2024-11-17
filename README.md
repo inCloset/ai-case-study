@@ -150,13 +150,13 @@ UMI is enabled by Upstart’s unique risk models that estimate likelihoods of de
 
 #### Exhibit 1: Result and Impact
 <div style="text-align: left;">
-    <img src="higherApprovers.png" width="775" height="145"/>
-</div>
-<div style="text-align: right;">
-    <img src="lowerAPR.png" width="775" height="145"/>
+    <img src="higherApprovers.png" width="750" height="400"/>
 </div>
 <div style="text-align: center;">
-    <img src="fullyAutomated.png" width="775" height="145"/>
+    <img src="lowerAPR.png" width="855" height="350"/>
+</div>
+<div style="text-align: left;">
+    <img src="fullyAutomated.png" width="775" height="400"/>
 </div>
 
 ### Operating Metrics
@@ -173,14 +173,14 @@ personal loans and small dollar loans and from initial rate request to signing o
 Company divided by the Transaction Volume, Number of Loans in the same period.
 
 ### Exhibit 2: Upstart Market Place v Competitors
-<div style="text-align: center;">
-<img src="mrktshr.png" width="775" height="145"/>
+<div style="text-align: left;">
+<img src="mrktshr.png" width="775" height="350"/>
 </div>
-<div style="text-align: center;">
-<img src="finstmt.png" width="775" height="145"/>
+<div style="text-align: right;">
+<img src="finstmt.png" width="775" height="350"/>
 </div>
-<div style="text-align: center;">
-<img src="balsheet.png" width="775" height="145"/>
+<div style="text-align: l;">
+<img src="balsheet.png" width="775" height="350"/>
 </div>
 
 ## Recommendations
