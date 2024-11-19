@@ -172,7 +172,7 @@ We define Percentage of Loans Fully Automated as the total number of loans in a 
 personal loans and small dollar loans and from initial rate request to signing of the loan agreement for auto loans) with no human involvement required by the
 Company divided by the Transaction Volume, Number of Loans in the same period.
 
-### Exhibit 2: Upstart Market Place v Competitors
+#### Exhibit 2: Upstart Market Place v Competitors
 <div style="text-align: left;">
 <img src="mrktShr.png" width="775" height="350"/>
 </div>
@@ -181,6 +181,11 @@ Company divided by the Transaction Volume, Number of Loans in the same period.
 </div>
 <div style="text-align: l;">
 <img src="balSheet.png" width="775" height="350"/>
+</div>
+
+#### Exhibit 3: SoFI Direct Competitor
+<div style="text-align: l;">
+<img src="sofiBal.png" width="775" height="350"/>
 </div>
 
 ## Recommendations
